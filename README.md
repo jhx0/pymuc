@@ -15,7 +15,7 @@ $ ./pymuc [-h] [-v] [HISTORY_FILE]
 1. Clone/Download the code in this repository
 2. Install the necessary dependencies
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 3. Execute pymuc
 ```
