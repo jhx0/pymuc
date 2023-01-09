@@ -5,7 +5,7 @@ import os.path
 from os.path import expanduser
 from colorama import Fore, Style
 
-PRG_NAME = "ctop"
+PRG_NAME = "pymuc"
 PRG_VERSION = "0.0.1"
 
 # Defines the used bar character(s)
